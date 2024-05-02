@@ -1,1 +1,1 @@
-# site-novo-amanda-
+# amanda-site
